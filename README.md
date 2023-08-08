@@ -1,7 +1,6 @@
 # terraform-google-iam
 
-This README outlines the details of collaborating on this terraform module. A
-short introduction of this module could easily go here.
+Terraform module to create and manage Google Cloud Platform IAM resources.
 
 ## Requirements
 
