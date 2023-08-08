@@ -1,4 +1,4 @@
-# terraform-google-iam
+# terraform-google-iam ![policy](https://github.com/kapetndev/terraform-google-iam/workflows/policy/badge.svg?event=push)
 
 Terraform module to create and manage Google Cloud Platform IAM resources.
 
