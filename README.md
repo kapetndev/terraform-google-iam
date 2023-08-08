@@ -12,3 +12,5 @@ Terraform module to create and manage Google Cloud Platform IAM resources.
 
 - [service\_account](modules/service_account) - Create and manage a service
   account.
+- [workload\_identity\_pool](modules/workload_identity_pool) - Create and
+  manage federated workload identity pools and providers.
