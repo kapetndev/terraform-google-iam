@@ -14,6 +14,11 @@ module "cloudsql_service_account" {
 }
 ```
 
+## Examples
+
+- [workload-identity](../../examples/workload-identity) - Create a service
+  account for a federated workload identity pool.
+
 ## Requirements
 
 | Name | Version |

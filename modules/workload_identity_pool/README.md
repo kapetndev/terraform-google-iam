@@ -33,6 +33,11 @@ module "github_workload_identity_pool" {
 }
 ```
 
+## Examples
+
+- [workload-identity](../../examples/workload-identity) - Create a federated
+  workload identity pool.
+
 ## Requirements
 
 | Name | Version |
